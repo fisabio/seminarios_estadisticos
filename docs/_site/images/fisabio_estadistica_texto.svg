@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="152.4687mm"
+   height="52.920647mm"
+   viewBox="0 0 540.24347 187.51399"
+   sodipodi:docname="fisabio_desigualdades_texto.svg">
+  <title
+     id="title3345">logo_desigualdades</title>
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>logo_desigualdades</dc:title>
+        <dc:date>2017-01-17</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Carlos Vergara-Hernández</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:rights>
+        <dc:source>FISABIO</dc:source>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <linearGradient
+       id="linearGradient5924"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#a3db00;stop-opacity:1;"
+         offset="0"
+         id="stop5926" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter16595"
+       x="-0.060862806"
+       width="1.1217256"
+       y="-0.16526535"
+       height="1.3305306">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="9.7239413"
+         id="feGaussianBlur16597" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="0"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     id="namedview4"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="288.36672"
+     inkscape:cy="81.85336"
+     inkscape:window-x="1366"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     units="mm"
+     width="126mm"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <rect
+     style="fill:#c1d2e1;fill-opacity:0.94444442;filter:url(#filter16595)"
+     id="rect4144"
+     width="382.42572"
+     height="140.70958"
+     x="166.57658"
+     y="276.66003"
+     ry="26.51029"
+     transform="matrix(1.253245,-0.00152928,0.0140508,0.99807536,-183.15192,-252.04278)"
+     clip-path="none" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:#094d97;stroke-width:3;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.95294118"
+     d="m 79.661769,30.058628 c -7.1474,-1.2e-4 -12.94153,5.51421 -12.9414,12.31642 10e-4,6.80145 5.79481,12.31458 12.9414,12.31446 0.30026,1.4e-4 3.05431,-0.79819 2.07032,-0.31054 -2.37622,1.17763 -3.66192,4.92021 -3.66797,7.52539 -1.3e-4,6.80222 5.79401,12.31653 12.9414,12.31641 7.1474,1.3e-4 12.941541,-5.51419 12.941411,-12.31641 -10e-4,-6.80146 -5.462771,-12.07241 -12.609381,-12.07228 -1.41842,0.12553 -3.33924,1.22718 -2.04492,0.49609 3.12417,-1.76469 3.30527,-5.34243 3.31055,-7.95312 1.3e-4,-6.80222 -5.79401,-12.31655 -12.94141,-12.31642 z m 3.59375,43.06058 c -7.1474,-1.2e-4 -12.94153,5.51421 -12.9414,12.31642 -1.3e-4,6.80222 5.79401,12.31653 12.9414,12.31641 1.59359,3e-5 3.48128,0.23153 4.66016,-0.82617 1.27821,-1.14681 -0.47166,2.15778 -0.47656,3.259782 -1.3e-4,6.80221 5.79401,12.31653 12.941401,12.31641 7.1474,1.3e-4 12.94154,-5.5142 12.94141,-12.31641 1.3e-4,-6.802232 -5.79401,-12.316562 -12.94141,-12.316432 -1.593711,5.9e-4 -3.475201,1.81775 -4.925781,1.18165 -1.01361,-0.44449 0.73747,-2.5126 0.74219,-3.61524 1.3e-4,-6.80222 -5.79401,-12.31655 -12.94141,-12.31642 z m -5.9375,28.750032 c -7.1474,-1.2e-4 -12.94153,5.5142 -12.9414,12.31642 0.003,1.30485 0.61739,3.44456 -0.11914,2.35937 -2.55525,-3.76484 -5.83974,-4.9202 -10.56446,-4.92578 -7.1474,-1.2e-4 -12.94153,5.5142 -12.9414,12.31642 -1.3e-4,6.80221 5.79401,12.31653 12.9414,12.31641 7.1474,1.3e-4 12.94154,-5.5142 12.94141,-12.31641 -0.005,-1.29559 -0.50229,-3.62788 0.23242,-2.55275 2.5638,3.7517 5.73325,5.11837 10.45117,5.11915 0.1987,-0.002 2.1391,-0.63176 2.04102,-0.45898 -0.79759,1.4051 -1.78455,2.58243 -2.03906,4.42969 -0.0611,0.95747 2.0944,5.66396 -0.16797,3.05468 -1.52305,-1.75659 -4.41656,-2.02811 -6.77149,-2.0332 -7.1474,-1.2e-4 -12.94153,5.51421 -12.9414,12.31642 -1.3e-4,6.80221 5.79401,12.31651 12.9414,12.31641 7.1474,1e-4 12.94154,-5.5142 12.94141,-12.31641 -0.002,-0.65631 -2.0765,-5.45607 0.0469,-2.17774 1.09377,1.68874 4.09837,1.98972 6.44921,1.99414 7.1474,1.3e-4 12.941541,-5.51419 12.941411,-12.31641 1.3e-4,-6.80222 -5.794011,-12.31655 -12.941411,-12.31642 -0.1987,0.002 -2.34379,0.99001 -1.3457,0.0508 1.21816,-1.14626 1.7867,-3.19994 1.78711,-4.85937 1.3e-4,-6.80223 -5.79401,-12.31655 -12.94141,-12.31642 z"
+     id="path4413"
+     inkscape:connector-curvature="0" />
+  <path
+     style="opacity:0.9;fill:#ffffff;fill-opacity:0;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.76262632"
+     id="path6107"
+     d="m 181.25793,53.523608 c -0.0241,-0.19965 -0.0266,-0.40126 -0.0306,-0.6021 -0.004,-0.24878 -0.005,-0.49762 -0.006,-0.74644 0.002,-0.13804 0.011,-0.27583 0.0166,-0.41375 0.003,-0.0804 0.004,-0.16085 0.004,-0.24129 -0.002,-0.0788 0.005,-0.14366 0.044,-0.21309 0.0508,-0.0864 0.12238,-0.15757 0.1952,-0.22536 0.0605,-0.0492 0.12488,-0.0932 0.19528,-0.12696 0.0407,-0.0209 0.0839,-0.0348 0.12811,-0.0462 0,0 0.1074,0.0144 0.1074,0.0144 l 0,0 c -0.0441,0.0104 -0.0873,0.0231 -0.12778,0.0441 -0.0706,0.0327 -0.13512,0.0752 -0.19611,0.12356 -0.0725,0.0666 -0.14395,0.13661 -0.19421,0.22214 -0.0393,0.0671 -0.0453,0.13063 -0.0438,0.20752 -4.2e-4,0.0806 -8.4e-4,0.16119 -0.005,0.24172 -0.006,0.13777 -0.0174,0.27533 -0.02,0.41327 -5.9e-4,0.24875 -6e-4,0.49752 0.004,0.74622 0.005,0.20031 0.008,0.40188 0.0373,0.60038 0,0 -0.10858,0.002 -0.10858,0.002 z"
+     inkscape:connector-curvature="0" />
+  <path
+     style="opacity:0.9;fill:#ffffff;fill-opacity:0;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.76262632"
+     id="path6109"
+     d="m 181.83425,50.512108 c 0.12447,-0.0483 0.24381,-0.1095 0.36499,-0.16554 0.22271,-0.1089 0.45906,-0.18064 0.69621,-0.24977 0.20889,-0.06 0.42171,-0.10625 0.63538,-0.1457 0.074,-0.0145 0.14802,-0.0291 0.22245,-0.0415 0,0 0.10673,0.0152 0.10673,0.0152 l 0,0 c -0.0754,0.0118 -0.15025,0.0262 -0.22511,0.0409 -0.21462,0.0384 -0.42827,0.0846 -0.63802,0.14426 -0.23632,0.0687 -0.47229,0.13897 -0.69378,0.2485 -0.12016,0.0559 -0.23861,0.11584 -0.3605,0.16776 0,0 -0.10835,-0.0141 -0.10835,-0.0141 z"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:120.00000477%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="307.69269"
+     y="84.426178"
+     id="text6245"
+     sodipodi:linespacing="120%"><tspan
+       sodipodi:role="line"
+       id="tspan16116"
+       x="307.69269"
+       y="84.426178">DESIGUALDADES</tspan><tspan
+       sodipodi:role="line"
+       id="tspan16118"
+       x="307.69269"
+       y="129.42618">EN SALUD</tspan></text>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:8.78499985;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 154.05732,35.088558 -21.87943,0 0.0116,113.645972 21.85779,-0.0154"
+     id="path16526"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:8.78499985;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 462.22745,35.548798 21.87943,0 -0.0116,113.645972 -21.85779,-0.0154"
+     id="path16526-3"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+</svg>

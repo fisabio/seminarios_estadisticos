@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: Próximos Seminarios
+  url: /proximos/
+
+- title: Histórico de Seminarios
+  url: /historico/
+
+- title: Etiquetas
+  url: /tags/
+
+- title: Buscar
+  url: /search/
