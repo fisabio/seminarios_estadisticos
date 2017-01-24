@@ -7,7 +7,7 @@ logo: fisabio_estadistica.png
 search: true
 url: https://fisabio.github.io/seminarios_estadisticos
 
-# Jekyll configuration
+# Jekyll configuration 
 
 permalink:   /:categories/:title/
 markdown:    kramdown
