@@ -1,5 +1,8 @@
 # Site navigation links
 
+- title: Página principal
+  url: /
+
 - title: Próximos Seminarios
   url: /proximos/
 
