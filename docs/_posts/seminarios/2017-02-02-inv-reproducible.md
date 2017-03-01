@@ -5,7 +5,6 @@ author: seminarios
 excerpt: >-
   Abordaje desde un punto de vista estadístico: qué es y por qué debería
   preocuparnos
-modified: 2017-01-19T00:00:00.000Z
 categories: historico
 tags:
   - Investigación reproducible
