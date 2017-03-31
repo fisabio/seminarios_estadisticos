@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Histórico de Seminarios
+excerpt: "Encuentra los seminarios que ya hemos celebrado"
 search_omit: true
 ---
 

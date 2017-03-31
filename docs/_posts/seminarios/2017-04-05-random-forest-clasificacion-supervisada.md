@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Random Forests y Clasificación Supervisada en Contextos p>>n
-excerpt: ""
+excerpt: "En esta sesión hablaremos del problema de la selección de variables en estos contextos"
 author: seminarios
 categories: proximos
 tags:

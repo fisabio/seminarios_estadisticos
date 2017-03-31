@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Próximos Seminarios
+excerpt: "Aquí verás los próximos seminarios que se celebrarán"
 search_omit: true
 ---
 
