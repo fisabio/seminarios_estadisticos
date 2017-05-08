@@ -18,7 +18,7 @@ Os proponemos un nuevo seminario estadístico en FISABIO, en el que ahondaremos 
 - **Título:** _p-valores y la crisis de reproducibilidad_
 - **Autor:** Gonzalo García-Donato Layrón
 - **Filiación:** Universidad de Castilla la Mancha
-- **Fecha:** Jueves 12 de mayo de 2017
+- **Fecha:** Jueves 11 de mayo de 2017
 - **Hora:** 12:30
 - **Lugar:** Sala -1 de FISABIO/DGSP (planta -1 del edificio).
 - **Resumen y material adicional:** Un problema fundamental en las ciencias aplicadas es el de dirimir cuál de dos hipótesis contrapuestas es cierta en base a un estudio observacional. En este contexto, la disciplina estadística colabora proponiendo medidas que sinteticen la evidencia contenida en los datos en favor o en contra de las hipótesis formuladas. Con más de 100 años el campeón de estas medidas es el *p*-valor, sobre el que recientemente han arreciado críticas en contra. Muchos argumentan que su uso puede estar detrás de la falta de reproducibilidad en la ciencia. Esta creencia ha llevado incluso a algunas revistas científicas a prohibir específicamente su uso. ¿Qué hay de cierto en esta acusación?
