@@ -3,7 +3,7 @@ layout: post
 title: "Extended Distributed Lag Non-Linear Models (DLNM)"
 excerpt: "Algunas aplicaciones en epidemiología ambiental"
 author: seminarios
-categories: proximos
+categories: historico
 tags:
   - Distributed lag non-linear models
   - DLNM
