@@ -6,7 +6,7 @@ author: seminarios
 categories: historico
 tags:
   - Disease mapping
-  - Modelización espacio-temporal
+  - Estadística espacio-temporal
   - Mortalidad
 comments: true
 share: true
